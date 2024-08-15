@@ -1,0 +1,15 @@
+.body-main
+{
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color:  ; */
+}
+.body-main-m
+{
+    background-color: rgba(211, 211, 211, 0.507);
+    color: black;
+    border-radius: 50px;
+}
+
